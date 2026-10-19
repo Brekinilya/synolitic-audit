@@ -1,0 +1,80 @@
+{
+  "EMOTION": {
+    "lbar: unary part": {
+      "mean": 0.9304688634054289,
+      "sd": 0.009267549160780842
+    },
+    "lbar: pair part": {
+      "mean": 0.867970677892292,
+      "sd": 0.013084156947037968
+    },
+    "per-edge: pair part": {
+      "mean": 0.8696617796487154,
+      "sd": 0.012328529088687822
+    },
+    "per-edge: unary part": {
+      "mean": 0.9573740746116999,
+      "sd": 0.00930543025123608
+    },
+    "attenuation sd(pair node)/sd(pair edge)": {
+      "mean": 0.39151564527962174,
+      "sd": 0.003985579919419084
+    },
+    "attenuation sd(unary node)/sd(unary edge)": {
+      "mean": 0.7535547569938827,
+      "sd": 0.0012613900069561017
+    }
+  },
+  "GAMBLING": {
+    "lbar: unary part": {
+      "mean": 0.9805704746697635,
+      "sd": 0.005601029104454661
+    },
+    "lbar: pair part": {
+      "mean": 0.6647771810132095,
+      "sd": 0.023660336512490606
+    },
+    "per-edge: pair part": {
+      "mean": 0.6792640441283206,
+      "sd": 0.03159706723811488
+    },
+    "per-edge: unary part": {
+      "mean": 0.981383364784439,
+      "sd": 0.00548765146715493
+    },
+    "attenuation sd(pair node)/sd(pair edge)": {
+      "mean": 0.4008937992464098,
+      "sd": 0.004769264131606595
+    },
+    "attenuation sd(unary node)/sd(unary edge)": {
+      "mean": 0.8170443346448826,
+      "sd": 0.00015803839810087244
+    }
+  },
+  "WM": {
+    "lbar: unary part": {
+      "mean": 0.9992306575700391,
+      "sd": 0.0010413068041493084
+    },
+    "lbar: pair part": {
+      "mean": 0.947873421396429,
+      "sd": 0.01590740422357174
+    },
+    "per-edge: pair part": {
+      "mean": 0.9675424589925969,
+      "sd": 0.008999521203411256
+    },
+    "per-edge: unary part": {
+      "mean": 0.9985701843518651,
+      "sd": 0.0011782937363089177
+    },
+    "attenuation sd(pair node)/sd(pair edge)": {
+      "mean": 0.35487418390618436,
+      "sd": 0.004041133903669174
+    },
+    "attenuation sd(unary node)/sd(unary edge)": {
+      "mean": 0.889920284467258,
+      "sd": 0.0004154947928024916
+    }
+  }
+}

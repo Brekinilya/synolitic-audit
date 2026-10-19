@@ -1,0 +1,146 @@
+{
+  "d": 40,
+  "r": 0.3,
+  "mu": 0.0,
+  "reps": 5,
+  "rows": [
+    {
+      "n": 50,
+      "mean": {
+        "raw LogReg": 0.4962471039340439,
+        "raw QDA (full d)": NaN,
+        "syn-LogReg: lbar": 0.49432096523856395,
+        "syn-LogReg: flat": 0.4953515343587723,
+        "syn-LogReg: pool": 0.4979697660373087,
+        "syn-QDA: lbar": 0.7438198103163811,
+        "syn-QDA: flat": 0.699996836638547,
+        "syn-QDA: pool": 0.7234073505521768
+      },
+      "sd": {
+        "raw LogReg": 0.01051867793653988,
+        "raw QDA (full d)": NaN,
+        "syn-LogReg: lbar": 0.009256101100331792,
+        "syn-LogReg: flat": 0.009669215299446246,
+        "syn-LogReg: pool": 0.007902894097849954,
+        "syn-QDA: lbar": 0.02632002241214821,
+        "syn-QDA: flat": 0.03326694416997051,
+        "syn-QDA: pool": 0.027543465991418017
+      }
+    },
+    {
+      "n": 100,
+      "mean": {
+        "raw LogReg": 0.5049349859851322,
+        "raw QDA (full d)": NaN,
+        "syn-LogReg: lbar": 0.5048172258829554,
+        "syn-LogReg: flat": 0.5052002666028069,
+        "syn-LogReg: pool": 0.4992583578436278,
+        "syn-QDA: lbar": 0.8051676661312464,
+        "syn-QDA: flat": 0.7949099089438925,
+        "syn-QDA: pool": 0.787737980635758
+      },
+      "sd": {
+        "raw LogReg": 0.010219996836184079,
+        "raw QDA (full d)": NaN,
+        "syn-LogReg: lbar": 0.010762604398407708,
+        "syn-LogReg: flat": 0.010384779466323454,
+        "syn-LogReg: pool": 0.011539416532707692,
+        "syn-QDA: lbar": 0.014142943452458593,
+        "syn-QDA: flat": 0.015379017540523468,
+        "syn-QDA: pool": 0.023454756731939252
+      }
+    },
+    {
+      "n": 200,
+      "mean": {
+        "raw LogReg": 0.5004040032104587,
+        "raw QDA (full d)": 0.8620873062233599,
+        "syn-LogReg: lbar": 0.4996382185113828,
+        "syn-LogReg: flat": 0.5005165697711453,
+        "syn-LogReg: pool": 0.5024335238521375,
+        "syn-QDA: lbar": 0.8573523904298934,
+        "syn-QDA: flat": 0.8438973035866146,
+        "syn-QDA: pool": 0.8541849131248542
+      },
+      "sd": {
+        "raw LogReg": 0.010810682574054849,
+        "raw QDA (full d)": 0.009179429691420693,
+        "syn-LogReg: lbar": 0.01078345026968107,
+        "syn-LogReg: flat": 0.010947830397485231,
+        "syn-LogReg: pool": 0.008455016861217017,
+        "syn-QDA: lbar": 0.009493946263524365,
+        "syn-QDA: flat": 0.015476237963667342,
+        "syn-QDA: pool": 0.008608386891466703
+      }
+    },
+    {
+      "n": 400,
+      "mean": {
+        "raw LogReg": 0.5014215429650151,
+        "raw QDA (full d)": 0.8873232561807436,
+        "syn-LogReg: lbar": 0.5013099125225565,
+        "syn-LogReg: flat": 0.5014496447895727,
+        "syn-LogReg: pool": 0.4974377796563222,
+        "syn-QDA: lbar": 0.8856429257620668,
+        "syn-QDA: flat": 0.8849132709482935,
+        "syn-QDA: pool": 0.8783703205793841
+      },
+      "sd": {
+        "raw LogReg": 0.009971540266207668,
+        "raw QDA (full d)": 0.006107455129792719,
+        "syn-LogReg: lbar": 0.009821505624412526,
+        "syn-LogReg: flat": 0.00996461033583004,
+        "syn-LogReg: pool": 0.008594672821723567,
+        "syn-QDA: lbar": 0.014452729328835888,
+        "syn-QDA: flat": 0.008591497811228244,
+        "syn-QDA: pool": 0.02085128789276399
+      }
+    },
+    {
+      "n": 800,
+      "mean": {
+        "raw LogReg": 0.49938890731627783,
+        "raw QDA (full d)": 0.9140031733883788,
+        "syn-LogReg: lbar": 0.4989421975580154,
+        "syn-LogReg: flat": 0.49938725813468643,
+        "syn-LogReg: pool": 0.5008727878167981,
+        "syn-QDA: lbar": 0.910757889703012,
+        "syn-QDA: flat": 0.9032257445461788,
+        "syn-QDA: pool": 0.9099312142738188
+      },
+      "sd": {
+        "raw LogReg": 0.012414484069471146,
+        "raw QDA (full d)": 0.004914892861332152,
+        "syn-LogReg: lbar": 0.01245013960822515,
+        "syn-LogReg: flat": 0.012426039077609365,
+        "syn-LogReg: pool": 0.009202874196687303,
+        "syn-QDA: lbar": 0.00473847638942156,
+        "syn-QDA: flat": 0.0031799889786782412,
+        "syn-QDA: pool": 0.005970410760375425
+      }
+    },
+    {
+      "n": 1600,
+      "mean": {
+        "raw LogReg": 0.5038871721423936,
+        "raw QDA (full d)": 0.927973840195371,
+        "syn-LogReg: lbar": 0.5040670844494255,
+        "syn-LogReg: flat": 0.5038844808239065,
+        "syn-LogReg: pool": 0.5035506180326758,
+        "syn-QDA: lbar": 0.9253170319059201,
+        "syn-QDA: flat": 0.903829897477317,
+        "syn-QDA: pool": 0.9255516986165266
+      },
+      "sd": {
+        "raw LogReg": 0.008253131255664512,
+        "raw QDA (full d)": 0.002497759128370782,
+        "syn-LogReg: lbar": 0.008384384297332544,
+        "syn-LogReg: flat": 0.008248691814299188,
+        "syn-LogReg: pool": 0.00937594646589137,
+        "syn-QDA: lbar": 0.006074938982169208,
+        "syn-QDA: flat": 0.00592652294371794,
+        "syn-QDA: pool": 0.005937080474213535
+      }
+    }
+  ]
+}
